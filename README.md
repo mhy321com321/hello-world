@@ -1,2 +1,3 @@
 # hello-world
-This is of hello-world repository of mhy321com321
+This is a hello-world repository of mhy321com321.
+mhy321com321 is responsible for its maintenance.
