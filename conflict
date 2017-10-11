@@ -1,2 +1,7 @@
 Conflict shall occure!
+<<<<<<< HEAD
 Another modification with respect to 'conflict' file in hello-world repository.
+=======
+This is a modification in hello-world-2.
+>>>>>>> 90061326af9b99e3318ae151418f8b183213ca5e
+'conflict' file should be mannuelly fixed, and then added and commited in local hello-world repository. After that try again to push it to the remote repository.
